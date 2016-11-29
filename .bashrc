@@ -6,8 +6,6 @@ if [ -f /etc/bashrc ]; then
 fi
 
 # User specific aliases and functions
-alias ll='ls -lFa'
-
 # Be careful copying, moving, removing files
 alias cp='cp -iv'
 alias mv='mv -iv'
